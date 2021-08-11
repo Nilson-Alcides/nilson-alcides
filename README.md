@@ -1,11 +1,17 @@
-### Hi there 👋
+### Ola pessoal, Seja bem vindo ao meu repositório do GitHub 👋
+### Ola pessoal, Seja bem vindo ao meu repositório do GitHub 👋
+
+Meu nome é Nilson Jose Alcides - Desenvolvedor de sistema 
+
+- 🔭 Atuuamete trabalho como analista desenvolvedor e-commerce magento.
+- 🌱 Estou cursando Desenvolvimento de Sistema  na ETEC Basilides de Godoy.
 
 <!--
 **Nilson-Alcides/nilson-alcides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Atuuamete trabalho como analista desenvolvedor e-commerce magento...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
