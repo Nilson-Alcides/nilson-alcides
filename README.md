@@ -1,5 +1,4 @@
 ### Ola pessoal, Seja bem vindo ao meu repositório do GitHub 👋
-### Ola pessoal, Seja bem vindo ao meu repositório do GitHub 👋
 
 Meu nome é Nilson Jose Alcides - Desenvolvedor de sistema 
 
