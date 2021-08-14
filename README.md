@@ -1,6 +1,7 @@
 ### Ola pessoal, Seja bem vindo ao meu repositório do GitHub 👋
 
-Meu nome é Nilson Jose Alcides - Desenvolvedor de sistema 
+Meu nome é Nilson Jose Alcides  
+<i class="far fa-graduation-cap">Bacharelado em Analise e Desenvolvimento de Sistemas - Universidade Paulista - UNIP</i>
 
 - 🔭 Atuamete trabalho como analista desenvolvedor e-commerce magento.
 - 🌱 Estou cursando Desenvolvimento de Sistema  na ETEC Basilides de Godoy.
