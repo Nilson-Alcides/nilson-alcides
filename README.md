@@ -7,10 +7,10 @@ Meu nome é Nilson Jose Alcides
 - 🌱 Estou cursando Desenvolvimento de Sistema  na ETEC Basilides de Godoy.
 
 <div>
-  <a href="https://github.com/Nilson-Alcides">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilson-Alcides&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilson-Alcides&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilson-Alcides&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Nilson-Alcides">  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilson-Alcides&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>     
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilson-Alcides&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilson-Alcides&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <div> 
