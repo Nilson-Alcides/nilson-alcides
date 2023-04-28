@@ -4,7 +4,8 @@ Meu nome é Nilson Jose Alcides
 <i class="far fa-graduation-cap">Bacharelado em Analise e Desenvolvimento de Sistemas - Universidade Paulista - UNIP</i>
 
 - 🔭 Atuamete trabalho como analista desenvolvedor e-commerce magento.
-- 🌱 Estou cursando Desenvolvimento de Sistema  na ETEC Basilides de Godoy.
+- 🔭 Atuamete trabalho Professor TI - Centro Paula Souza - ETECs.
+- 🌱 Curso Tecnico em Desenvolvimento de Sistema  na ETEC Basilides de Godoy.
 
 <div>
   <a href="https://github.com/Nilson-Alcides">  
